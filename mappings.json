@@ -1,0 +1,45 @@
+{
+  "file_types": {
+    "zip_files": [
+      "zip"
+    ],
+    "web_documents": [
+      "html",
+      "css",
+      "js",
+      "php"
+    ],
+    "json_files": [
+      "json"
+    ],
+    "pdf_files": [
+      "pdf"
+    ],
+    "csv_files": [
+      "csv"
+    ],
+    "documents": [
+      "doc",
+      "docx"
+    ],
+    "images": [
+      "jpg",
+      "png",
+      "jpeg"
+    ],
+    "text_files": [
+      "txt"
+    ],
+    "markdown": [
+      "md",
+      "rmd"
+    ],
+    "programs": [
+      "py",
+      "c",
+      "java",
+      "r"
+    ]
+  },
+  "directory": ""
+}

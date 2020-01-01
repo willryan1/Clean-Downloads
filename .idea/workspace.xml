@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87eae1a7-d5d1-4e17-bc33-8d3289e82dcc" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="ProjectId" id="1VYyWyqJTspQwms7yTRJGSgQpSp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sh_files" />
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.mappings">
+    <configuration name="clean" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="clean_downloads" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clean.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="downloads_stats" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="clean_downloads" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/downloads_stats.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mappings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="clean_downloads" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/mappings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="organize" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="clean_downloads" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/organize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.clean" />
+      <item itemvalue="Python.downloads_stats" />
+      <item itemvalue="Python.mappings" />
+      <item itemvalue="Python.organize" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mappings" />
+        <item itemvalue="Python.clean" />
+        <item itemvalue="Python.downloads_stats" />
+        <item itemvalue="Python.organize" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87eae1a7-d5d1-4e17-bc33-8d3289e82dcc" name="Default" comment="" />
+      <created>1577429874294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577429874294</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="977" height="244" key="GridCell.Tab.0.bottom" timestamp="1577854904793">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state width="1659" height="245" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1577445019297" />
+    <state width="977" height="244" key="GridCell.Tab.0.bottom/0.23.1680.965@0.23.1680.965" timestamp="1577794986976" />
+    <state width="1659" height="244" key="GridCell.Tab.0.bottom/0.23.1680.966@0.23.1680.966" timestamp="1577757464292" />
+    <state width="977" height="244" key="GridCell.Tab.0.bottom/0.23.1680.967@0.23.1680.967" timestamp="1577854904793" />
+    <state width="829" height="245" key="GridCell.Tab.0.bottom/0.23.1680.971@0.23.1680.971" timestamp="1577492497086" />
+    <state width="977" height="244" key="GridCell.Tab.0.center" timestamp="1577854904792">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state width="1659" height="245" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1577445019296" />
+    <state width="977" height="244" key="GridCell.Tab.0.center/0.23.1680.965@0.23.1680.965" timestamp="1577794986975" />
+    <state width="1659" height="244" key="GridCell.Tab.0.center/0.23.1680.966@0.23.1680.966" timestamp="1577757464291" />
+    <state width="977" height="244" key="GridCell.Tab.0.center/0.23.1680.967@0.23.1680.967" timestamp="1577854904792" />
+    <state width="829" height="245" key="GridCell.Tab.0.center/0.23.1680.971@0.23.1680.971" timestamp="1577492497084" />
+    <state width="977" height="244" key="GridCell.Tab.0.left" timestamp="1577854904791">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state width="1659" height="245" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1577445019295" />
+    <state width="977" height="244" key="GridCell.Tab.0.left/0.23.1680.965@0.23.1680.965" timestamp="1577794986975" />
+    <state width="1659" height="244" key="GridCell.Tab.0.left/0.23.1680.966@0.23.1680.966" timestamp="1577757464290" />
+    <state width="977" height="244" key="GridCell.Tab.0.left/0.23.1680.967@0.23.1680.967" timestamp="1577854904791" />
+    <state width="829" height="245" key="GridCell.Tab.0.left/0.23.1680.971@0.23.1680.971" timestamp="1577492497084" />
+    <state width="977" height="244" key="GridCell.Tab.0.right" timestamp="1577854904792">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state width="1659" height="245" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1577445019296" />
+    <state width="977" height="244" key="GridCell.Tab.0.right/0.23.1680.965@0.23.1680.965" timestamp="1577794986976" />
+    <state width="1659" height="244" key="GridCell.Tab.0.right/0.23.1680.966@0.23.1680.966" timestamp="1577757464291" />
+    <state width="977" height="244" key="GridCell.Tab.0.right/0.23.1680.967@0.23.1680.967" timestamp="1577854904792" />
+    <state width="829" height="245" key="GridCell.Tab.0.right/0.23.1680.971@0.23.1680.971" timestamp="1577492497085" />
+    <state x="519" y="336" key="com.intellij.ide.util.TipDialog" timestamp="1577444362886">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="519" y="336" key="com.intellij.ide.util.TipDialog/0.23.1680.961@0.23.1680.961" timestamp="1577444362886" />
+  </component>
+</project>
